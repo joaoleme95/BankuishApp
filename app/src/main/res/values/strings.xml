@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BankuishApplication</string>
+    <string name="find_kotlin_repositories">Find Kotlin repositories</string>
+</resources>
